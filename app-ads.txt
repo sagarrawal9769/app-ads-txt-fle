@@ -1,1 +1,3 @@
-google.com, pub-3026453700547032, DIRECT, f08c47fec0942fa0
+<code>app-ads.txt</code> file:
+<code>google.com, pub-3026453700547032, DIRECT, f08c47fec0942fa0
+</code>
